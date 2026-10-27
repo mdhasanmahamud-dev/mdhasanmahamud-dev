@@ -1,4 +1,4 @@
-  <img src="https://i.ibb.co.com/wrr53GGz/banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/qzxxCxF/1.png" alt="Banner" width="100%" />
 
 ### Hi there 👋, I'm Hasan Mahamud
 
